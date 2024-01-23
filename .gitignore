@@ -1,0 +1,13 @@
+data/
+logs/
+models/
+img/
+plugins/
+mlflow-server/artifacts/
+postgres-mlflow/db/
+dags/utils/__pycache__
+dags/utils/.ipynb_checkpoints/
+dags/utils/.pytest_cache/
+dags/.ipynb_checkpoints/
+dags/__pycache__
+
